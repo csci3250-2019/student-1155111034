@@ -29,7 +29,9 @@ The result turns out the correct pronounciation is **Arthur**.
 	# have comment maybe
 	n = 10
 	def func(n)
-		print 10*n
+		return n*10
+	for i in range (1,10,2)
+		print(func(i))
 ```	
 
 ## **Trial**
@@ -51,3 +53,5 @@ The result turns out the correct pronounciation is **Arthur**.
 I think therefore I am.
 
 ## *Image*
+![my image](https://github.com/csci3250-2019/student-1155111034/blob/master/git.PNG)
+haha
