@@ -54,7 +54,7 @@ I think therefore I am.
 
 ## **HyperLink**
 everyone please follow steven ig eventhough i do not know why the hell i am promoting for him XD.
-[link](https://www.instagram.com/peterpancil_art/?hl=zh-hk)
+[peterpancil_art](https://www.instagram.com/peterpancil_art/?hl=zh-hk)
 
 
 ## *Image*
